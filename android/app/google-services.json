@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "97878489717",
+    "project_id": "shopping-8d4bd",
+    "storage_bucket": "shopping-8d4bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97878489717:android:59ed1d80fc17797b28d63c",
+        "android_client_info": {
+          "package_name": "com.classcar200.admin_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97878489717-i7kjps8nr1nb7fh98rmpntt4i4vl9qs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcar200.admin_controller",
+            "certificate_hash": "e6e4af8da096c97a67258015bd35144342eeab82"
+          }
+        },
+        {
+          "client_id": "97878489717-uaugoskcjo59b1lkc8f0ev6uss34p8s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VG2va8lUzedHD7tHxgulDahl1ViIIuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97878489717-uaugoskcjo59b1lkc8f0ev6uss34p8s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97878489717:android:ff2a0bdedb24e0a228d63c",
+        "android_client_info": {
+          "package_name": "com.classcar200.delivery_man"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97878489717-8olb1k491vuardtk0q0vsk27u2utfdm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcar200.delivery_man",
+            "certificate_hash": "e6e4af8da096c97a67258015bd35144342eeab82"
+          }
+        },
+        {
+          "client_id": "97878489717-uaugoskcjo59b1lkc8f0ev6uss34p8s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VG2va8lUzedHD7tHxgulDahl1ViIIuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97878489717-uaugoskcjo59b1lkc8f0ev6uss34p8s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97878489717:android:94ae4122524e6da228d63c",
+        "android_client_info": {
+          "package_name": "com.classcar200.shopping_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97878489717-1n50kpgl66n3j5kunjgqnkvrkgb4qljr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classcar200.shopping_online",
+            "certificate_hash": "e6e4af8da096c97a67258015bd35144342eeab82"
+          }
+        },
+        {
+          "client_id": "97878489717-uaugoskcjo59b1lkc8f0ev6uss34p8s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VG2va8lUzedHD7tHxgulDahl1ViIIuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97878489717-uaugoskcjo59b1lkc8f0ev6uss34p8s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
